@@ -1,0 +1,4 @@
+For Snell-Hitchcock Scav: The Dark Side of the Quad, in the University of Chicago 2011 Scavenger Hunt.  Item 115.
+
+The project is written in Processing, and was designed to be used as an Android app so you could turn the dial with a finger.
+The interface is designed to resemble a padlock, but I was too tired Saturday at 1AM to figure out the correct behavior for how padlocks actually work, with the direction-changing and so on, and it's too easy to accidentally reverse direction briefly when your finger is the mouse.
